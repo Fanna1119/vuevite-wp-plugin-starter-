@@ -4,4 +4,3 @@
 [todo]
 
 1. fix Instant hot module replacement (HMR)
-2. 
